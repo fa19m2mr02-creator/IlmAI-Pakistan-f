@@ -1,5 +1,7 @@
 # 🇵🇰 IlmAI Pakistan (علم AI) — AI-Powered Education & Tech Career Platform
 
+🌐 **Live Site**: [https://ilm-ai-pakistan-f.vercel.app/](https://ilm-ai-pakistan-f.vercel.app/)
+
 [![Live Website](https://img.shields.io/badge/Live%20Site-ilm--ai--pakistan--f.vercel.app-10b981?style=for-the-badge&logo=vercel)](https://ilm-ai-pakistan-f.vercel.app/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178c6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -12,15 +14,11 @@ Designed specifically for Pakistani educational boards (**FBISE Federal Board, P
 
 ---
 
-## 🚀 Live Demo & Application Screenshot
-
-- **Live Site**: [https://ilm-ai-pakistan-f.vercel.app/](https://ilm-ai-pakistan-f.vercel.app/)
+## 🚀 Application Screenshot
 
 <p align="center">
   <img src="public/app_screenshot.jpg" alt="IlmAI Pakistan Application Screenshot" width="100%" />
 </p>
-
-![IlmAI Pakistan Interface Screenshot](public/app_screenshot.jpg)
 
 ---
 
