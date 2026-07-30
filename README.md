@@ -184,6 +184,16 @@ Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 
 ---
 
+## 🎯 Our Mission
+
+At **IlmAI Pakistan (علم AI)**, our mission is to eliminate educational inequality and elevate tech literacy for over 60 million students across Pakistan.
+
+- 📚 **Equal Educational Opportunity**: Providing every Pakistani student—from urban centers like Karachi, Lahore, and Islamabad to remote regions in KPK, Balochistan, and Gilgit-Baltistan—with free, world-class AI tutoring aligned with local curricula.
+- 🗣️ **Language Accessibility**: Breaking language barriers by delivering explanations in English, formal Urdu script (اردو), and Roman Urdu, ensuring no student is left behind due to language medium constraints.
+- 🚀 **Empowering the Next Generation**: Equipping Pakistani youth with critical STEM knowledge, AI capabilities, and practical career guidance to compete successfully in university entrance exams and the global digital economy.
+
+---
+
 <p align="center">
   <b>IlmAI Pakistan</b> — Built with ❤️ for the youth of Pakistan 🇵🇰
 </p>
