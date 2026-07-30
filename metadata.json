@@ -1,0 +1,6 @@
+{
+  "name": "IlmAI Pakistan",
+  "description": "Pakistan's premier AI education platform featuring curriculum-aligned AI tutoring for Matric, FSc, O/A Levels, MDCAT/ECAT, bilingual Urdu/English concept simplifiers, and tech career roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
