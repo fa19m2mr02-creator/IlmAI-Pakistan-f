@@ -12,9 +12,11 @@ Designed specifically for Pakistani educational boards (**FBISE Federal Board, P
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo & Screenshot
 
 - **Live Application**: [https://ilm-ai-pakistan-f.vercel.app/](https://ilm-ai-pakistan-f.vercel.app/)
+
+![IlmAI Pakistan Application Screenshot](./public/app_screenshot.jpg)
 
 ---
 
