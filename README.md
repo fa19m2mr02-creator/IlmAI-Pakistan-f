@@ -65,6 +65,17 @@ IlmAI Pakistan is built with a **Full-Stack Express + Vite TypeScript** architec
 
 ---
 
+## 🎨 Visual & Aesthetic Design Principles
+
+IlmAI Pakistan adheres to an **Anti-Slop Visual Hierarchy** engineered for high legibility, focused learning, and cultural resonance:
+
+- **🌲 Pakistani Emerald & Slate Palette**: Features a deep Pakistani Emerald Green (`#059669` / `#10b981`) primary theme paired with eye-safe slate background neutrals (`#0f172a` / `#f8fafc`). Avoids generic SaaS purple gradients and excessive glowing effects.
+- **✒️ Typographic Harmony**: Combines modern geometric **Plus Jakarta Sans** for English UI controls with authentic **Noto Naskh Arabic** for elegant Urdu script (`اردو`).
+- **📐 Mathematical Layout & Spatial Rhythm**: Built with a 1.25x rhythmic spacing scale, subtle hairline borders, and flat card structures without nested card clutter or distracting drop-shadows.
+- **📱 Responsive Touch & High Density**: Features fluid container constraints (`w-full max-w-7xl`) and touch-friendly controls (minimum 44px tap targets) for seamless access on smartphones and desktops across Pakistan.
+
+---
+
 ## 📁 Repository Structure
 
 ```
